@@ -1,0 +1,11 @@
+# Ignora os .obj, .lst e .exe dos arquivos do nasm/freelink
+*.obj
+*.lst
+*.exe
+# Ignora os arquivos necessários para linkar e montar os programas
+C5OVLMGR.*
+*.PRJ
+FREELINK.*
+NASM.*
+*.FRM
+READ.ME
